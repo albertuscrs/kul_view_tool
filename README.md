@@ -22,9 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
 KulViewTool::Renderer.copyright 'Albertus Christyadhi', 'All rights reserved'
-'''
+```
 
 ## Development
 
